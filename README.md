@@ -1,16 +1,15 @@
 ### Hi there 👋
+### Hi there 👋, my name is Nouf
+![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**Noufalotaibi3/Noufalotaibi3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Nouf Alotaibi, a Computer science graduate at Prince Sattam bin Abdulaziz University, interested in developing applications and websites, I won the Archedni website in 1st Place in Google MENA 2021 Solution Challenge and in the graduation project MyFuture application in 2nd Place in Scientific Forum 2022 Track of Volunteer initiatives at PSAU.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Skills: JAVA / HTML / CSS / Android Studio / Mysql
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
