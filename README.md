@@ -6,9 +6,14 @@ I am Nouf Alotaibi, a Computer science graduate at Prince Sattam bin Abdulaziz U
 
 
 
-Skills: JAVA / HTML / CSS / Android Studio / Mysql
+Skills: 
+* JAVA
+* HTML
+* CSS
+* Android Studio
+* Mysql
 
-- 🔭 I’m currently working on this page. 
+
 
 
 
